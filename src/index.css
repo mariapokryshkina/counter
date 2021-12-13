@@ -52,6 +52,11 @@ main div {
   align-items: center;
 }
 
+.circle h1 {
+  text-align: center;
+  padding-bottom: 60px;
+}
+
 button {
   background-color: rgb(211, 207, 207);
   padding: 1rem;
