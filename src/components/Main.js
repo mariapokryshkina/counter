@@ -24,16 +24,17 @@ class Main extends Component {
       this.state.counter === 0
         ? ""
         : this.state.counter % 2 === 0
-        ? "even"
-        : "odd"
+        ? "even circle"
+        : "odd circle"
     } circle`;
 
     return (
       <main>
-        <div>
+        
           <div className={circleClass}>
             <h1>{this.state.counter}</h1>
           </div>
+          <div>
           <button onClick={this.addOneHandler}>Add one</button>
           <button onClick={this.removeOneHandler}>Remove one</button>
           <button onClick={this.resetHandler}>Reset</button>
