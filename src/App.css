@@ -1,0 +1,43 @@
+/* body {
+  font-family: "PT Sans", sans-serif;
+  background-color: white;
+}
+header,
+footer {
+  background-color: lightgray;
+  margin: 2rem;
+  padding: 2rem;
+}
+main {
+  padding: 5rem 2rem;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+
+footer {
+  text-align: center;
+}
+
+button {
+  background-color: lightgray;
+  border: none;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+}
+
+.counter {
+  background-color: lightgray;
+  text-align: center;
+  border: none;
+  color: black;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  font-size: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+*/
