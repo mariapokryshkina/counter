@@ -1,3 +1,3 @@
 Welcome to the Counter App!
 
-![Screenshot](.png)
+![Screenshot](Screenshot.png)
